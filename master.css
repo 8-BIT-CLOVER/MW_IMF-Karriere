@@ -257,7 +257,7 @@ header nav ul li a.call-to-action:hover {
 .one-third a {
 	border: 2px rgba(13,63,86,1.00) solid;
 	color: rgba(13,63,86,1.00);
-	text-decoration: 0;
+	text-decoration: none;
 	padding: 0.5rem;
 	transition: 0.25s;
 }
@@ -265,7 +265,7 @@ header nav ul li a.call-to-action:hover {
 	border: 2px rgba(13,63,86,1.00) solid;
 	background-color: rgba(13,63,86,1.00);
 	color: white;
-	text-decoration: 0;
+	text-decoration: none;
 	padding: 0.5rem;
 	transition: 0.25s;
 }
