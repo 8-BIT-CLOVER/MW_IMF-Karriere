@@ -209,7 +209,7 @@ header nav ul li {
 }
 header nav ul li a {
 	color: rgba(13,63,86,1);
-	text-decoration: 0;
+	text-decoration: none;
 	transition: 0.25s;
 	box-sizing: border-box;
 }
